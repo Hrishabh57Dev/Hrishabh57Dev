@@ -12,10 +12,11 @@ to my personal GitHub profile!
 
 <h3 align="center">
 <a href="https://github.com/Hrishabh57Dev">Visit my personal homepage
-<script src="https://tryhackme.com/badge/1118482"></script>
+
 <img src="img/website.gif" alt="Visit homepage" align="center">
 </a>
 </h3>
+<script src="https://tryhackme.com/badge/1118482"></script>
 
 <hr>
 

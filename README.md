@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-to my personal GitHub profile!
+To My  GitHub profile!
 </div>
 <img src="https://tryhackme-badges.s3.amazonaws.com/hrishabh57dev.png" alt="TryHackMe">
 

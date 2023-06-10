@@ -17,11 +17,10 @@ To My  GitHub profile!
 Experience<align="centre">
   
  </div> 
+  <div>
 <img src="https://tryhackme-badges.s3.amazonaws.com/hrishabh57dev.png" alt="TryHackMe">
 <hr>
-
-
-
+  </div>
 </div>
 
 

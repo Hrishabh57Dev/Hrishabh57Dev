@@ -27,16 +27,16 @@ Experiences
 
 <h3 align="center">
  <div id="contacs">
-  <img src="img/website.gif" alt="Visit homepage" align="center" width="120" >
+  <img src="img/website.gif" alt="Visit homepage" align="center" width="100" >
 <a href="https://github.com/Hrishabh57Dev">Visit my personal homepage
- <a href="your-linkedin-URL">
+ <a href="[your-linkedin-URL](https://www.linkedin.com/in/hrishabh-dev-53300a160/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
- <a href="your-twitter-URL">
+ <a href="https://twitter.com/devvokadev">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 
-<img src="img/website.gif" alt="Visit homepage" align="center" width="120" >
+<img src="img/website.gif" alt="Visit homepage" align="center" width="100" >
 </a>
 </h3>
 

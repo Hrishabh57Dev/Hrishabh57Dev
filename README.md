@@ -9,6 +9,7 @@
 <div align="center">
 to my personal GitHub profile!
 </div>
+<img src="https://tryhackme-badges.s3.amazonaws.com/hrishabh57dev.png" alt="TryHackMe">
 
 <h3 align="center">
 <a href="https://github.com/Hrishabh57Dev">Visit my personal homepage
@@ -16,7 +17,7 @@ to my personal GitHub profile!
 <img src="img/website.gif" alt="Visit homepage" align="center">
 </a>
 </h3>
-<script src="https://tryhackme.com/badge/1118482"></script>
+
 
 <hr>
 

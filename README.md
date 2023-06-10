@@ -52,8 +52,7 @@ Experiences
  <div id="contacs">
   <img src="img/website.gif" alt="Visit homepage" align="center" width="50" >
 <a href="https://github.com/Hrishabh57Dev">
- Visit my personal homepage
- <img src="https://img.shields.io/badge/GithubGithub-blue?style=for-the-badge&logo=Github&logoColor=white" alt=" Badge"/>
+ <img src="https://img.shields.io/badge/Github-blue?style=for-the-badge&logo=Github&logoColor=white" alt=" Badge"/>
  <a href="https://www.linkedin.com/in/hrishabh-dev-53300a160">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>

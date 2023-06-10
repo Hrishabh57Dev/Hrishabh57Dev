@@ -14,7 +14,9 @@ To My  GitHub profile!
  Cybersecurity Student || 2% in THM || HTB ||Bug Crowd || Ethical Hacker || Graphic Designer || CTFs ||AND MANY MORE TO COME
  <hr>
  <div id ="heading">
+  <a>
 Experiences
+  </a>
 <align="centre">
  <div id="badges">
 <img src="https://tryhackme-badges.s3.amazonaws.com/hrishabh57dev.png" alt="TryHackMe">
@@ -34,7 +36,7 @@ Experiences
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 
-<img src="img/website.gif" alt="Visit homepage" align="center" >
+<img src="img/website.gif" alt="Visit homepage" align="center" width="120" >
 </a>
 </h3>
 

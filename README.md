@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I'm hrishabh</h1>
 <div align="center">
 <img src="img/fan-1.gif" alt="Fan" align="center">
 </div>

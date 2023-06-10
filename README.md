@@ -10,13 +10,14 @@
 To My  GitHub profile!
  <hr>
 
-<div align="center">
+<div align="right">
+ <img src="https://tryhackme-badges.s3.amazonaws.com/hrishabh57dev.png" alt="TryHackMe">
 <img src="img/octo.gif" alt="GitHub Logo" width="150" height="150" />
 </div>
 
 <hr>
 </div>
-<img src="https://tryhackme-badges.s3.amazonaws.com/hrishabh57dev.png" alt="TryHackMe">
+
 
 <h3 align="center">
 <a href="https://github.com/Hrishabh57Dev">Visit my personal homepage

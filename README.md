@@ -8,6 +8,13 @@
 
 <div align="center">
 To My  GitHub profile!
+ <hr>
+
+<div align="center">
+<img src="img/octo.gif" alt="GitHub Logo" width="150" height="150" />
+</div>
+
+<hr>
 </div>
 <img src="https://tryhackme-badges.s3.amazonaws.com/hrishabh57dev.png" alt="TryHackMe">
 
@@ -19,13 +26,7 @@ To My  GitHub profile!
 </h3>
 
 
-<hr>
 
-<div align="center">
-<img src="img/octo.gif" alt="GitHub Logo" width="150" height="150" />
-</div>
-
-<hr>
 
 <div align="center">
 <p>Have a good day!</p>

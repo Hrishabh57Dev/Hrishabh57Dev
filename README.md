@@ -47,9 +47,7 @@ Experiences
  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
  </a> 
- <a herf = "https://soliditylang.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.vectorlogo.zone/logos/ethereum_solidity/images/a716e883-fdc5-44ac-b5be-64e401232a50.svg" alt="solidity" style="width: 40; height: 40; background-color: white;"/> 
- </a> 
+ 
   </p>
 <h3 align="center">
  <div id="contacs">
